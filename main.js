@@ -1,7 +1,7 @@
 SC.initialize({
 client_id: '340f063c670272fac27cfa67bffcafc4'
 });
-//minsara kanavu
+//kgf
 $(document).ready(function() {
 SC.stream('/tracks/574972743',function(sound){
 $("#start").click(function(e) {
@@ -17,7 +17,7 @@ sound.stop();
 });
 });
 
-//aravic kadaloram
+//kana
 $(document).ready(function() {
 SC.stream('/tracks/524553387',function(sound){
 $("#start1").click(function(e) {
@@ -31,7 +31,7 @@ sound.stop();
 });
 });
 
-//pooraaaleeee ponnuthajeee
+//mesaija murukku
 $(document).ready(function() {
 SC.stream('/tracks/319293252',function(sound){
 $("#start2").click(function(e) {
@@ -44,9 +44,9 @@ sound.stop();
 });
 });
 });
-//bombay hamma hamma
+//ngk
 $(document).ready(function() {
-SC.stream('/tracks/390797712',function(sound){
+SC.stream('/tracks/615375408',function(sound){
 $("#start3").click(function(e) {
 e.preventDefault();
 sound.start();
@@ -57,9 +57,9 @@ sound.stop();
 });
 });
 });
-//rhythm
+//bigil
 $(document).ready(function() {
-SC.stream('/tracks/364718444',function(sound){
+SC.stream('/tracks/652012811',function(sound){
 $("#start4").click(function(e) {
 e.preventDefault();
 sound.start();
@@ -69,9 +69,9 @@ e.preventDefault();
 sound.stop();
 });
 });
-});//kadal
+});//piremam
 $(document).ready(function() {
-SC.stream('/tracks/66498404',function(sound){
+SC.stream('/tracks/208641386',function(sound){
 $("#start5").click(function(e) {
 e.preventDefault();
 sound.start();
@@ -82,9 +82,9 @@ sound.stop();
 });
 });
 });
-//roja
+//saithan
 $(document).ready(function() {
-SC.stream('/tracks/345472022',function(sound){
+SC.stream('/tracks/283781104',function(sound){
 $("#start6").click(function(e) {
 e.preventDefault();
 sound.start();
@@ -94,9 +94,9 @@ e.preventDefault();
 sound.stop();
 });
 });
-});//kadhalan
+});//thani oruvan
 $(document).ready(function() {
-SC.stream('/tracks/345528518',function(sound){
+SC.stream('/tracks/221842219',function(sound){
 $("#start7").click(function(e) {
 e.preventDefault();
 sound.start();
@@ -106,9 +106,9 @@ e.preventDefault();
 sound.stop();
 });
 });
-});//kannalanee
+});//imaikka nodikal
 $(document).ready(function() {
-SC.stream('/tracks/345495650',function(sound){
+SC.stream('/tracks/491193603',function(sound){
 $("#start8").click(function(e) {
 e.preventDefault();
 sound.start();
@@ -118,9 +118,9 @@ e.preventDefault();
 sound.stop();
 });
 });
-});//nilla kaaikirathu
+});//aram
 $(document).ready(function() {
-SC.stream('/tracks/347768843',function(sound){
+SC.stream('/tracks/225519099',function(sound){
 $("#start9").click(function(e) {
 e.preventDefault();
 sound.start();
@@ -131,9 +131,9 @@ sound.stop();
 });
 });
 });
-//muthal murai
+//vikkiram vedhtha
 $(document).ready(function() {
-SC.stream('/tracks/572689890',function(sound){
+SC.stream('/tracks/337532259',function(sound){
 $("#start10").click(function(e) {
 e.preventDefault();
 sound.start();
@@ -144,9 +144,9 @@ sound.stop();
 });
 });
 });
-//santhana thenral
+//petta
 $(document).ready(function() {
-SC.stream('/tracks/517722948',function(sound){
+SC.stream('/tracks/568925592',function(sound){
 $("#start11").click(function(e) {
 e.preventDefault();
 sound.start();
